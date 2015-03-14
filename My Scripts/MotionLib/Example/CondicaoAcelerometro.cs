@@ -3,7 +3,6 @@ using System.Collections;
 using System.IO.Ports;
 using UnityEngine.UI;
 using Assets.Scripts.MyScripts.MotionLib;
-using System.Collections;
 using System.Collections.Generic;
 
 public class Analogico : NunchuckListener {
